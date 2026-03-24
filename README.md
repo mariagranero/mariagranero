@@ -1,9 +1,9 @@
-# 👋 Hola, [soy María Granero López]
+# 👋 Hola, soy María Granero López
 
 
 **Data Analyst | Business Insights | Former Market Research Consultant**
 
-🔗 LinkedIn: [https://www.linkedin.com/in/mar%C3%ADa-granero-l%C3%B3pez/]
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-granero-l%C3%B3pez/)
 
 ---
 
